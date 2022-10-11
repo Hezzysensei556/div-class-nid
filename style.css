@@ -1,0 +1,25 @@
+h1{ color: red;}
+h2{ color: lightblue;}
+h3{ color: forestgreen;}
+h4{ color: firebrick;}
+h5{ color: yellowgreen;}
+h6{ color: blueviolet;}
+
+body {
+	background-color:#31E1F7;
+	color:#F2070B;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+	font-weight: normal;
+	line-height: 1.6em;
+	margin: 0;
+   }
+  
+.box-1 {
+	background-color: #333;
+	color: #000;
+}
+
+.container {
+	width: 960px;
+}
